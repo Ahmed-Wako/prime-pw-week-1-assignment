@@ -10,10 +10,6 @@ body{
   align-items: center;
 }
 
-span {
-  font-style: bold;
-}
-
 footer {
   background: rgb(139, 143, 132);
   width: auto;
