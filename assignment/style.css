@@ -9,11 +9,11 @@ body{
   background-size: contain;
   align-items: center;
 }
-
 footer {
   background: rgb(139, 143, 132);
   width: auto;
 }
+/* Put a border around your image */
 img {
   display: block;
   border: 3px solid rgb(88, 77, 88);
@@ -31,7 +31,6 @@ p{
   font-family: sans-serif;
   font-style: italic;
 }
-/* Put a border around your image */
 
 /* Change the font-family of your list */
 li{
